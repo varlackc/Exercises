@@ -1,0 +1,7 @@
+C:\Users\Owner\source\repos\Exercises_10_3\Exercises_10_3\obj\Debug\Exercises_10_3.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Exercises_10_3\Exercises_10_3\obj\Debug\Exercises_10_3.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Exercises_10_3\Exercises_10_3\bin\Debug\Exercises_10_3.exe.config
+C:\Users\Owner\source\repos\Exercises_10_3\Exercises_10_3\bin\Debug\Exercises_10_3.exe
+C:\Users\Owner\source\repos\Exercises_10_3\Exercises_10_3\bin\Debug\Exercises_10_3.pdb
+C:\Users\Owner\source\repos\Exercises_10_3\Exercises_10_3\obj\Debug\Exercises_10_3.exe
+C:\Users\Owner\source\repos\Exercises_10_3\Exercises_10_3\obj\Debug\Exercises_10_3.pdb
