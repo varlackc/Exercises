@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Exercise_17\BankLibrary\bin\Debug\BankLibrary.exe.config
+C:\Users\Owner\source\repos\Exercise_17\BankLibrary\bin\Debug\BankLibrary.exe
+C:\Users\Owner\source\repos\Exercise_17\BankLibrary\bin\Debug\BankLibrary.pdb
+C:\Users\Owner\source\repos\Exercise_17\BankLibrary\obj\Debug\BankLibrary.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Exercise_17\BankLibrary\obj\Debug\BankLibrary.BankUIForm.resources
+C:\Users\Owner\source\repos\Exercise_17\BankLibrary\obj\Debug\BankLibrary.Properties.Resources.resources
+C:\Users\Owner\source\repos\Exercise_17\BankLibrary\obj\Debug\BankLibrary.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\Exercise_17\BankLibrary\obj\Debug\BankLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Exercise_17\BankLibrary\obj\Debug\BankLibrary.exe
+C:\Users\Owner\source\repos\Exercise_17\BankLibrary\obj\Debug\BankLibrary.pdb

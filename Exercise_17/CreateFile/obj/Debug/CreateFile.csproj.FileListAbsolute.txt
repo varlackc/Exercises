@@ -1,0 +1,14 @@
+C:\Users\Owner\source\repos\Exercise_17\CreateFile\bin\Debug\CreateFile.exe.config
+C:\Users\Owner\source\repos\Exercise_17\CreateFile\bin\Debug\CreateFile.exe
+C:\Users\Owner\source\repos\Exercise_17\CreateFile\bin\Debug\CreateFile.pdb
+C:\Users\Owner\source\repos\Exercise_17\CreateFile\bin\Debug\BankLibrary.exe
+C:\Users\Owner\source\repos\Exercise_17\CreateFile\bin\Debug\BankLibrary.pdb
+C:\Users\Owner\source\repos\Exercise_17\CreateFile\bin\Debug\BankLibrary.exe.config
+C:\Users\Owner\source\repos\Exercise_17\CreateFile\obj\Debug\CreateFile.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Exercise_17\CreateFile\obj\Debug\CreateFile.Properties.Resources.resources
+C:\Users\Owner\source\repos\Exercise_17\CreateFile\obj\Debug\CreateFile.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\Exercise_17\CreateFile\obj\Debug\CreateFile.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Exercise_17\CreateFile\obj\Debug\CreateFile.csproj.CopyComplete
+C:\Users\Owner\source\repos\Exercise_17\CreateFile\obj\Debug\CreateFile.exe
+C:\Users\Owner\source\repos\Exercise_17\CreateFile\obj\Debug\CreateFile.pdb
+C:\Users\Owner\source\repos\Exercise_17\CreateFile\obj\Debug\CreateFile.CreateFileForm.resources
