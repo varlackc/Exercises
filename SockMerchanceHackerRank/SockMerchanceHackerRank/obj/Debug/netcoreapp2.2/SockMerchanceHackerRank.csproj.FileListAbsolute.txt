@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\SockMerchanceHackerRank\SockMerchanceHackerRank\bin\Debug\netcoreapp2.2\SockMerchanceHackerRank.deps.json
+C:\Users\Owner\source\repos\SockMerchanceHackerRank\SockMerchanceHackerRank\bin\Debug\netcoreapp2.2\SockMerchanceHackerRank.runtimeconfig.json
+C:\Users\Owner\source\repos\SockMerchanceHackerRank\SockMerchanceHackerRank\bin\Debug\netcoreapp2.2\SockMerchanceHackerRank.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\SockMerchanceHackerRank\SockMerchanceHackerRank\bin\Debug\netcoreapp2.2\SockMerchanceHackerRank.dll
+C:\Users\Owner\source\repos\SockMerchanceHackerRank\SockMerchanceHackerRank\bin\Debug\netcoreapp2.2\SockMerchanceHackerRank.pdb
+C:\Users\Owner\source\repos\SockMerchanceHackerRank\SockMerchanceHackerRank\obj\Debug\netcoreapp2.2\SockMerchanceHackerRank.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\SockMerchanceHackerRank\SockMerchanceHackerRank\obj\Debug\netcoreapp2.2\SockMerchanceHackerRank.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\SockMerchanceHackerRank\SockMerchanceHackerRank\obj\Debug\netcoreapp2.2\SockMerchanceHackerRank.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\SockMerchanceHackerRank\SockMerchanceHackerRank\obj\Debug\netcoreapp2.2\SockMerchanceHackerRank.AssemblyInfo.cs
+C:\Users\Owner\source\repos\SockMerchanceHackerRank\SockMerchanceHackerRank\obj\Debug\netcoreapp2.2\SockMerchanceHackerRank.dll
+C:\Users\Owner\source\repos\SockMerchanceHackerRank\SockMerchanceHackerRank\obj\Debug\netcoreapp2.2\SockMerchanceHackerRank.pdb
