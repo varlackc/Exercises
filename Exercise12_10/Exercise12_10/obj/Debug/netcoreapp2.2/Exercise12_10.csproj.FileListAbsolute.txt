@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Exercise12_10\Exercise12_10\bin\Debug\netcoreapp2.2\Exercise12_10.deps.json
+C:\Users\Owner\source\repos\Exercise12_10\Exercise12_10\bin\Debug\netcoreapp2.2\Exercise12_10.runtimeconfig.json
+C:\Users\Owner\source\repos\Exercise12_10\Exercise12_10\bin\Debug\netcoreapp2.2\Exercise12_10.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Exercise12_10\Exercise12_10\bin\Debug\netcoreapp2.2\Exercise12_10.dll
+C:\Users\Owner\source\repos\Exercise12_10\Exercise12_10\bin\Debug\netcoreapp2.2\Exercise12_10.pdb
+C:\Users\Owner\source\repos\Exercise12_10\Exercise12_10\obj\Debug\netcoreapp2.2\Exercise12_10.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Exercise12_10\Exercise12_10\obj\Debug\netcoreapp2.2\Exercise12_10.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Exercise12_10\Exercise12_10\obj\Debug\netcoreapp2.2\Exercise12_10.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Exercise12_10\Exercise12_10\obj\Debug\netcoreapp2.2\Exercise12_10.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Exercise12_10\Exercise12_10\obj\Debug\netcoreapp2.2\Exercise12_10.dll
+C:\Users\Owner\source\repos\Exercise12_10\Exercise12_10\obj\Debug\netcoreapp2.2\Exercise12_10.pdb
