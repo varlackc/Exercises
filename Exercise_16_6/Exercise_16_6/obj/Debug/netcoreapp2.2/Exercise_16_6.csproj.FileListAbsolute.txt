@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Exercise_16_6\Exercise_16_6\obj\Debug\netcoreapp2.2\Exercise_16_6.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Exercise_16_6\Exercise_16_6\obj\Debug\netcoreapp2.2\Exercise_16_6.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Exercise_16_6\Exercise_16_6\obj\Debug\netcoreapp2.2\Exercise_16_6.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Exercise_16_6\Exercise_16_6\obj\Debug\netcoreapp2.2\Exercise_16_6.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Exercise_16_6\Exercise_16_6\bin\Debug\netcoreapp2.2\Exercise_16_6.deps.json
+C:\Users\Owner\source\repos\Exercise_16_6\Exercise_16_6\bin\Debug\netcoreapp2.2\Exercise_16_6.runtimeconfig.json
+C:\Users\Owner\source\repos\Exercise_16_6\Exercise_16_6\bin\Debug\netcoreapp2.2\Exercise_16_6.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Exercise_16_6\Exercise_16_6\bin\Debug\netcoreapp2.2\Exercise_16_6.dll
+C:\Users\Owner\source\repos\Exercise_16_6\Exercise_16_6\bin\Debug\netcoreapp2.2\Exercise_16_6.pdb
+C:\Users\Owner\source\repos\Exercise_16_6\Exercise_16_6\obj\Debug\netcoreapp2.2\Exercise_16_6.dll
+C:\Users\Owner\source\repos\Exercise_16_6\Exercise_16_6\obj\Debug\netcoreapp2.2\Exercise_16_6.pdb
