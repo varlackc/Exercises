@@ -8,7 +8,6 @@ namespace Exercise_11_3
         private string FirstN;
         private string LastN;
         private string SocialSecurityN;
-
         private decimal GrossS;
         private decimal CommissionR;
 
