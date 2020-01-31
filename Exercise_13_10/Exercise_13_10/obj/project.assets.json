@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Owner\\source\\repos\\Exercise_13_10\\Exercise_13_10\\Exercise_13_10.csproj",
+      "projectUniqueName": "C:\\Users\\Owner\\source\\repos\\Exercises\\Exercise_13_10\\Exercise_13_10\\Exercise_13_10.csproj",
       "projectName": "Exercise_13_10",
-      "projectPath": "C:\\Users\\Owner\\source\\repos\\Exercise_13_10\\Exercise_13_10\\Exercise_13_10.csproj",
+      "projectPath": "C:\\Users\\Owner\\source\\repos\\Exercises\\Exercise_13_10\\Exercise_13_10\\Exercise_13_10.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Owner\\source\\repos\\Exercise_13_10\\Exercise_13_10\\obj\\",
+      "outputPath": "C:\\Users\\Owner\\source\\repos\\Exercises\\Exercise_13_10\\Exercise_13_10\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
