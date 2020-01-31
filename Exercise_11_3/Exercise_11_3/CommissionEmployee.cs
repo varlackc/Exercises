@@ -1,4 +1,10 @@
-﻿using System;
+﻿/*
+Carlos Maxwell Varlack
+
+Exercise 11.3
+ */
+
+using System;
 
 namespace Exercise_11_3
 {
@@ -24,9 +30,7 @@ namespace Exercise_11_3
 
         // read only properties
         public string FirstName { get { return FirstN; } }
-
         public string LastName { get { return LastN; } }
-
         public string SocialSecurityNumber { get { return SocialSecurityN; } }
 
         public decimal GrossSales { get { return GrossS; } set {
@@ -77,9 +81,8 @@ namespace Exercise_11_3
                     else {
                         throw new ArgumentOutOfRangeException("BaseSalary", value, "BaseSalary must be >=0");
                     }
-                        
+         
                  }
-
             }
             
             //read only
@@ -88,7 +91,6 @@ namespace Exercise_11_3
             public decimal Earnings() {
                 return BaseSalary + Commission1.Earnings();
             }
-
 
         }
     }
