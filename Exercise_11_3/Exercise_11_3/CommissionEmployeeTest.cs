@@ -1,5 +1,4 @@
 ﻿/*
-
 Carlos Maxwell Varlack
 
 Description:
@@ -8,10 +7,10 @@ Description:
 Many apps written with inheritance could be written with composition instead, and vice versa. 
 Rewrite class BasePlusCommissionEmployee (Fig. 11.11) of the CommissionEmployee–BasePlusCommissionEmployee 
 hierarchy to use composition rather than inheritance.
-
  */
 
 using System;
+
 using static Exercise_11_3.CommissionEmployee;
 
 namespace Exercise_11_3
@@ -41,9 +40,9 @@ namespace Exercise_11_3
             //Display the results to the user
             DisplayResults(employee);
 
+            // Wait until the user desides to close the program
             Console.ReadLine();
         }
-
 
         //Explain the program to the user
         public static void ExplainToUser()
@@ -65,12 +64,8 @@ namespace Exercise_11_3
             Console.WriteLine("\t Commission Rate: " + employee.Commission1.CommissionRate);
             Console.WriteLine("\t Base Salary: " + employee.BaseSalary);
             Console.WriteLine("\t Earnings: " + employee.Earnings());
-            
             Console.WriteLine();
         }
 
     }
-
-
-
 }
