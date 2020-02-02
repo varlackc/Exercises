@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Owner\\source\\repos\\SockMerchanceHackerRank\\SockMerchanceHackerRank\\SockMerchanceHackerRank.csproj": {}
+    "C:\\Users\\Owner\\source\\repos\\Exercises\\SockMerchanceHackerRank\\SockMerchanceHackerRank\\SockMerchanceHackerRank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Owner\\source\\repos\\SockMerchanceHackerRank\\SockMerchanceHackerRank\\SockMerchanceHackerRank.csproj": {
+    "C:\\Users\\Owner\\source\\repos\\Exercises\\SockMerchanceHackerRank\\SockMerchanceHackerRank\\SockMerchanceHackerRank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Owner\\source\\repos\\SockMerchanceHackerRank\\SockMerchanceHackerRank\\SockMerchanceHackerRank.csproj",
+        "projectUniqueName": "C:\\Users\\Owner\\source\\repos\\Exercises\\SockMerchanceHackerRank\\SockMerchanceHackerRank\\SockMerchanceHackerRank.csproj",
         "projectName": "SockMerchanceHackerRank",
-        "projectPath": "C:\\Users\\Owner\\source\\repos\\SockMerchanceHackerRank\\SockMerchanceHackerRank\\SockMerchanceHackerRank.csproj",
+        "projectPath": "C:\\Users\\Owner\\source\\repos\\Exercises\\SockMerchanceHackerRank\\SockMerchanceHackerRank\\SockMerchanceHackerRank.csproj",
         "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Owner\\source\\repos\\SockMerchanceHackerRank\\SockMerchanceHackerRank\\obj\\",
+        "outputPath": "C:\\Users\\Owner\\source\\repos\\Exercises\\SockMerchanceHackerRank\\SockMerchanceHackerRank\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
