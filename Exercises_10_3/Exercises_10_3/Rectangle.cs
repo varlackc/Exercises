@@ -7,12 +7,14 @@
  The set accessors should verify that length and width are each floating-point numbers 
  greater than 0.0 and less than 20.0. Write an app to test class Rectangle.
  */
+
 using System;
 
 namespace Exercises_10_3
 {
     public class Rectangle
     {
+        //declare fields
         public float Length { get; set; } =  (float) 1.0;
         public float Width { get; set; } = (float) 1.0;
 
@@ -26,16 +28,19 @@ namespace Exercises_10_3
 
             else
             {
+                //set the values for lenght and width
                 Length = length;
                 Width = width;
             }
         }
 
+        // Calculate Perimeters
         public float Perimeter() {
             float result = (2 * Length) + (2*Width);
             return result;
         }
 
+        // Calculate the Area
         public float Area() {
             float result = (Length * Width);
             return result;
