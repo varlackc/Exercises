@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Exercise_15_3\Exercise_15_3\bin\Debug\Exercise_15_3.exe.config
+C:\Users\Owner\source\repos\Exercise_15_3\Exercise_15_3\bin\Debug\Exercise_15_3.exe
+C:\Users\Owner\source\repos\Exercise_15_3\Exercise_15_3\bin\Debug\Exercise_15_3.pdb
+C:\Users\Owner\source\repos\Exercise_15_3\Exercise_15_3\obj\Debug\Exercise_15_3.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Exercise_15_3\Exercise_15_3\obj\Debug\Exercise_15_3.Form1.resources
+C:\Users\Owner\source\repos\Exercise_15_3\Exercise_15_3\obj\Debug\Exercise_15_3.Properties.Resources.resources
+C:\Users\Owner\source\repos\Exercise_15_3\Exercise_15_3\obj\Debug\Exercise_15_3.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\Exercise_15_3\Exercise_15_3\obj\Debug\Exercise_15_3.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Exercise_15_3\Exercise_15_3\obj\Debug\Exercise_15_3.exe
+C:\Users\Owner\source\repos\Exercise_15_3\Exercise_15_3\obj\Debug\Exercise_15_3.pdb
