@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Exercise_14_6\Exercise_14_6\bin\Debug\Exercise_14_6.exe.config
+C:\Users\Owner\source\repos\Exercise_14_6\Exercise_14_6\bin\Debug\Exercise_14_6.exe
+C:\Users\Owner\source\repos\Exercise_14_6\Exercise_14_6\bin\Debug\Exercise_14_6.pdb
+C:\Users\Owner\source\repos\Exercise_14_6\Exercise_14_6\obj\Debug\Exercise_14_6.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Exercise_14_6\Exercise_14_6\obj\Debug\Exercise_14_6.Properties.Resources.resources
+C:\Users\Owner\source\repos\Exercise_14_6\Exercise_14_6\obj\Debug\Exercise_14_6.TemperatureCalculator.resources
+C:\Users\Owner\source\repos\Exercise_14_6\Exercise_14_6\obj\Debug\Exercise_14_6.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\Exercise_14_6\Exercise_14_6\obj\Debug\Exercise_14_6.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Exercise_14_6\Exercise_14_6\obj\Debug\Exercise_14_6.exe
+C:\Users\Owner\source\repos\Exercise_14_6\Exercise_14_6\obj\Debug\Exercise_14_6.pdb
