@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\Exercise_15_8\Exercise_15_8\bin\Debug\Exercise_15_8.exe.config
+C:\Users\Owner\source\repos\Exercise_15_8\Exercise_15_8\bin\Debug\Exercise_15_8.exe
+C:\Users\Owner\source\repos\Exercise_15_8\Exercise_15_8\bin\Debug\Exercise_15_8.pdb
+C:\Users\Owner\source\repos\Exercise_15_8\Exercise_15_8\obj\Debug\Exercise_15_8.Form1.resources
+C:\Users\Owner\source\repos\Exercise_15_8\Exercise_15_8\obj\Debug\Exercise_15_8.Properties.Resources.resources
+C:\Users\Owner\source\repos\Exercise_15_8\Exercise_15_8\obj\Debug\Exercise_15_8.csproj.GenerateResource.cache
+C:\Users\Owner\source\repos\Exercise_15_8\Exercise_15_8\obj\Debug\Exercise_15_8.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Exercise_15_8\Exercise_15_8\obj\Debug\Exercise_15_8.exe
+C:\Users\Owner\source\repos\Exercise_15_8\Exercise_15_8\obj\Debug\Exercise_15_8.pdb
+C:\Users\Owner\source\repos\Exercise_15_8\Exercise_15_8\obj\Debug\Exercise_15_8.LoginPasswordUserControl.resources
