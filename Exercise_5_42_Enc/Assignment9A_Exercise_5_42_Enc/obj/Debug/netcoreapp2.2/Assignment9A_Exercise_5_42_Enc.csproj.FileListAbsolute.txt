@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\Assignment9A_Exercise_5_42_Enc\Assignment9A_Exercise_5_42_Enc\bin\Debug\netcoreapp2.2\Assignment9A_Exercise_5_42_Enc.deps.json
+C:\Users\Owner\source\repos\Assignment9A_Exercise_5_42_Enc\Assignment9A_Exercise_5_42_Enc\bin\Debug\netcoreapp2.2\Assignment9A_Exercise_5_42_Enc.runtimeconfig.json
+C:\Users\Owner\source\repos\Assignment9A_Exercise_5_42_Enc\Assignment9A_Exercise_5_42_Enc\bin\Debug\netcoreapp2.2\Assignment9A_Exercise_5_42_Enc.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\Assignment9A_Exercise_5_42_Enc\Assignment9A_Exercise_5_42_Enc\bin\Debug\netcoreapp2.2\Assignment9A_Exercise_5_42_Enc.dll
+C:\Users\Owner\source\repos\Assignment9A_Exercise_5_42_Enc\Assignment9A_Exercise_5_42_Enc\bin\Debug\netcoreapp2.2\Assignment9A_Exercise_5_42_Enc.pdb
+C:\Users\Owner\source\repos\Assignment9A_Exercise_5_42_Enc\Assignment9A_Exercise_5_42_Enc\obj\Debug\netcoreapp2.2\Assignment9A_Exercise_5_42_Enc.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\Assignment9A_Exercise_5_42_Enc\Assignment9A_Exercise_5_42_Enc\obj\Debug\netcoreapp2.2\Assignment9A_Exercise_5_42_Enc.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\Assignment9A_Exercise_5_42_Enc\Assignment9A_Exercise_5_42_Enc\obj\Debug\netcoreapp2.2\Assignment9A_Exercise_5_42_Enc.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\Assignment9A_Exercise_5_42_Enc\Assignment9A_Exercise_5_42_Enc\obj\Debug\netcoreapp2.2\Assignment9A_Exercise_5_42_Enc.AssemblyInfo.cs
+C:\Users\Owner\source\repos\Assignment9A_Exercise_5_42_Enc\Assignment9A_Exercise_5_42_Enc\obj\Debug\netcoreapp2.2\Assignment9A_Exercise_5_42_Enc.dll
+C:\Users\Owner\source\repos\Assignment9A_Exercise_5_42_Enc\Assignment9A_Exercise_5_42_Enc\obj\Debug\netcoreapp2.2\Assignment9A_Exercise_5_42_Enc.pdb
