@@ -21,7 +21,7 @@ namespace Exercise_4_12
 {
     public class Date
     {
-        //Declare auto increment properties
+        // Declare auto increment properties
         public int Month { get; set; }
         public int Day { get; set; }
         public int Year { get; set; }
