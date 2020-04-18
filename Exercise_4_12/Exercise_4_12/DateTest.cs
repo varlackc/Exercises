@@ -36,7 +36,7 @@ namespace Exercise_4_12
             Console.ReadLine();
         }
 
-        //Explain the program to the user
+        // Explain the program to the user
         public static void ExplainToUser()
         {
             Console.WriteLine();
