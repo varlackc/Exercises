@@ -46,7 +46,7 @@ namespace Exercise_4_12
             Console.WriteLine();
         }
 
-        //Show the parameters to the user
+        // Show the parameters to the user
         public static void DisplayParameters(int month, int date,  int year)
         {
             Console.WriteLine("\t Month: " + month);
