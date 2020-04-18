@@ -27,7 +27,7 @@ namespace Exercise_4_12
         public int Year { get; set; }
 
         // Constructor to initialize the properties
-        //Inputs: Month, Day and Year as Integers
+        // Inputs: Month, Day and Year as Integers
         public Date(int month, int day, int year)
         {
             Month = month;
