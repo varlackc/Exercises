@@ -16,7 +16,7 @@ namespace Exercise_4_12
     {
         static void Main(string[] args)
         {
-            // declare variables
+            // Declare variables
             int day = 12;
             int month = 1;
             int year = 2020;
