@@ -16,7 +16,7 @@ namespace Assignment10_Exercise_5_21
     {
         static void Main(string[] args)
         {
-            //Declare variables
+            // Declare variables
             int counter = 10;
             int number = 0;
             int largest = 0;
