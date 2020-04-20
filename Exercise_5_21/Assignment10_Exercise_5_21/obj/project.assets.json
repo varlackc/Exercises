@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Owner\\source\\repos\\Assignment10_Exercise_5_21\\Assignment10_Exercise_5_21\\Assignment10_Exercise_5_21.csproj",
+      "projectUniqueName": "C:\\Users\\Owner\\source\\repos\\Exercises\\Exercise_5_21\\Assignment10_Exercise_5_21\\Assignment10_Exercise_5_21.csproj",
       "projectName": "Assignment10_Exercise_5_21",
-      "projectPath": "C:\\Users\\Owner\\source\\repos\\Assignment10_Exercise_5_21\\Assignment10_Exercise_5_21\\Assignment10_Exercise_5_21.csproj",
+      "projectPath": "C:\\Users\\Owner\\source\\repos\\Exercises\\Exercise_5_21\\Assignment10_Exercise_5_21\\Assignment10_Exercise_5_21.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Owner\\source\\repos\\Assignment10_Exercise_5_21\\Assignment10_Exercise_5_21\\obj\\",
+      "outputPath": "C:\\Users\\Owner\\source\\repos\\Exercises\\Exercise_5_21\\Assignment10_Exercise_5_21\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
