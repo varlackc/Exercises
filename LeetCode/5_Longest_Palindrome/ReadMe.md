@@ -1,5 +1,7 @@
 # 5. Longest Palindromic Substring
 
+(Medium Dificulty Level)
+
 Given a string s, return the longest 
 palindromic
  
