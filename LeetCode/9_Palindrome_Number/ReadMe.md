@@ -7,7 +7,6 @@ palindrome
 , and false otherwise.
 
  
-
 **Example 1:**
 
 Input: x = 121
