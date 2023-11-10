@@ -1,6 +1,6 @@
 # 9. Palindrome Number
 
-(Medium Dificulty Level)
+(Medium Difficulty Level)
 
 Given an integer x, return true if x is a 
 palindrome
