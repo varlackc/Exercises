@@ -1,5 +1,6 @@
 # 16. Sum Closest 3 elements
 
+(Medium Difficulty Level)
 
 Given an integer array nums of length n and an integer target, find three integers in nums such that the sum is closest to target.
 
