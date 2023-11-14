@@ -4,7 +4,7 @@
 
 Given the head of a linked list, remove the nth node from the end of the list and return its head.
 
-![image of problem 11](src/remove_ex1.jpg)
+![image of problem 19](src/remove_ex1.jpg)
 
 **Example 1:**
 
