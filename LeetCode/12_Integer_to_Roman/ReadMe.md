@@ -24,8 +24,6 @@ Roman numerals are usually written largest to smallest from left to right. Howev
 
 Given an integer, convert it to a roman numeral.
 
- 
-
 **Example 1:**
 
 Input: num = 3
