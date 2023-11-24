@@ -8,8 +8,6 @@ Given an input string s and a pattern p, implement regular expression matching w
 '*' Matches zero or more of the preceding element.
 The matching should cover the entire input string (not partial).
 
- 
-
 **Example 1:**
 
 Input: s = "aa", p = "a"
